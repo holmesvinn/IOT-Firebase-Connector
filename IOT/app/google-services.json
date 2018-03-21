@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "839080502469",
+    "firebase_url": "https://testing-48a3a.firebaseio.com",
+    "project_id": "testing-48a3a",
+    "storage_bucket": "testing-48a3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839080502469:android:fcff4c4417d25329",
+        "android_client_info": {
+          "package_name": "in.nanoelectron.iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839080502469-tp7g3ecig6lhvcnstjeebj36v85pu6nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.nanoelectron.iot",
+            "certificate_hash": "8833bfba1f8ff4cd1dde91fbeba6953c5e8c4583"
+          }
+        },
+        {
+          "client_id": "839080502469-ul93t1ngqbu6jj4vb9iomi0eugi42nqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPcZucJ0RmjuhhHslT4ky-okZjnEOK7Y8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839080502469-ul93t1ngqbu6jj4vb9iomi0eugi42nqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

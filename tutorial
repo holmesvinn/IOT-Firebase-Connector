@@ -1,0 +1,10 @@
+1.  install the app-debug.apk in your mobile with working internet connection
+
+
+2.  install python3.x
+
+
+3.  run iot.py in the cmd or terminal as  "python3.5 iot.py"
+
+
+4.  send message from the phone
